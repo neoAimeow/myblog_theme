@@ -224,6 +224,7 @@ a.nav-item{
 .page-title,
 .post-title {
   margin-top: 0;
+  font-style: bold;
 }
 
 i.header-icon {
